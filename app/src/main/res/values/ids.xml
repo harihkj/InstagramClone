@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Profile" type="id">Profile</item>
+    <item name="Share" type="id">Share</item>
+    <item name="Add" type="id">Add</item>
+    <item name="Search" type="id">Search</item>
+</resources>
